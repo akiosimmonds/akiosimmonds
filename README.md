@@ -17,9 +17,14 @@ I specialize in risk assessments, incident response, and secure enterprise archi
 ---
 
 ## 📂 Featured Projects
-- 🔍 Incident Response – XMRig Malware Analysis  
-- 📊 Enterprise Risk Assessment (NIST SP 800-53)  
-- ☁️ Secure Network Design (Azure Hybrid Architecture)  
+
+### 🛡️ [Wazuh SOC Homelab](https://github.com/akiosimmonds/wazuh-soc-homelab)
+My flagship hands-on cybersecurity project: a multi-endpoint Wazuh homelab featuring custom Linux detections, automated response, auditd, FIM, vulnerability triage, and ongoing Debian 13 hardening.
+
+- 🔍 [Incident Response – XMRig Malware Analysis](https://github.com/akiosimmonds/incident-response-xmrig-analysis)
+- 📊 [Enterprise Risk Assessment (NIST SP 800-53)](https://github.com/akiosimmonds/enterprise-risk-assessment-nist)
+- ☁️ [Secure Network Design (Azure Hybrid Architecture)](https://github.com/akiosimmonds/secure-network-design-azure)
+- ✈️ [Aviation Cybersecurity Risk Management](https://github.com/akiosimmonds/aviation-cybersecurity-risk-management)
 
 ---
 
